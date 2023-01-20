@@ -4,7 +4,7 @@ setup(
   packages = ['Topsis-Radhika'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'Topsis',   # Give a short description about your library
+  description = 'Topsis package for MCDM problems',   # Give a short description about your library
   author = 'Radhika aggarwal',                   # Type in your name
   author_email = 'raggarwal1_be20@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/Radhika980/Topsis-Radhika',   # Provide either the link to your github or to your website
@@ -25,4 +25,5 @@ setup(
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
   ],
+  python_requires='>=3.6',
 )
