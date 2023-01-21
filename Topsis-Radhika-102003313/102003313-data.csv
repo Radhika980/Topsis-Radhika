@@ -1,4 +1,5 @@
-Fund Name,P1,P2,P3,P4,P5
+
+Model,Correlation,R2,RMSE,Accuracy,F score
 M1,0.79,0.62,1.25,60.89,11
 M2,0.66,0.44,2.89,63.07,20
 M3,0.56,0.31,1.57,62.87,16
