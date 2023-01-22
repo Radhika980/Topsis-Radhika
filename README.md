@@ -23,6 +23,7 @@ pip install topsis-102003313
 
 -Impacts must be comma-separated with + for criteria that are to be maximised, and - for criteria that are to be minimised.
 
+
 -For example, +,-,+,- or "+, -, +, -"
 
 ## Usage
