@@ -32,3 +32,6 @@ Enter csv filename followed by _.csv_ extentsion, then enter the _weights_ vecto
 ```bash
 topsisSolve sample.csv "1,1,1,1" "+,-,+,+" "outputFile.csv"
 ```
+
+## License
+MIT
