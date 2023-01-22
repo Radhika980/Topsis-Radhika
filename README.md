@@ -13,15 +13,17 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install topsis_
 ```bash
 pip install topsis-102003313
 ```
-Input and output file format should be .CSV
+-Input and output file format should be .CSV
 
-First column in the input file should be the object name
+-First column in the input file should be the object name
 
-Input file must have at least 2 criteria, and all criterion values should be numeric
+-Input file must have at least 2 criteria, and all criterion values should be numeric
 
-Weights must be numeric and comma-separated. For example, 0.25,0.25,1.0,0.25 or "0.25,0.25,1.0,0.25".
+-Weights must be numeric and comma-separated. For example, 0.25,0.25,1.0,0.25 or "0.25,0.25,1.0,0.25".
 
-Impacts must be comma-separated with + for criteria that are to be maximised, and - for criteria that are to be minimised. For example, +,-,+,- or "+, -, +, -"
+-Impacts must be comma-separated with + for criteria that are to be maximised, and - for criteria that are to be minimised.
+
+-For example, +,-,+,- or "+, -, +, -"
 
 ## Usage
 
