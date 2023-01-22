@@ -30,7 +30,7 @@ pip install topsis-102003313
 Enter csv filename followed by _.csv_ extentsion, then enter the _weights_ vector with vector values separated by commas, followed by the _impacts_ vector with comma separated signs _(+,-)_, and lastly the _outputFileName_.
 
 ```bash
-topsisSolve sample.csv "1,1,1,1" "+,-,+,+" "outputFile.csv"
+python topsis.py sample.csv "1,1,1,1" "+,-,+,+" outputFile.csv
 ```
 
 ## License
